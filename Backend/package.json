@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "\"Driftly – Smart, fast, reliable rides tailored your way, anytime, anywhere!\"",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikita-Panwar/Driftly.git"
+  },
+  "author": "Nikita Panwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikita-Panwar/Driftly/issues"
+  },
+  "homepage": "https://github.com/Nikita-Panwar/Driftly#readme"
+}
